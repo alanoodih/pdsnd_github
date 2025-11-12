@@ -1,19 +1,35 @@
-# Udacity GitHub Project (PDSND)
-This repository is part of Udacity’s Programming for Data Science with Python Nanodegree.  
-It demonstrates the use of Git and GitHub for version control.
+# Bikeshare Project
 
-## Project Description
-The project includes:
-- Creating and managing branches
-- Adding commits and tracking changes
-- Using `.gitignore` to exclude files
-- Performing merges and resolving conflicts
-- Practicing collaboration workflow
+This project explores data related to bike share systems for three major US cities:
+- Chicago  
+- New York City  
+- Washington  
 
-## Branches
-- **master**: main branch
-- **documentation**: contains updated project documentation
-- **refactoring**: includes refactored and improved code examples
+The project uses Python to analyze the data and compute descriptive statistics such as:
+- The most frequent times of travel  
+- The most popular stations and trips  
+- Trip duration statistics  
+- User statistics (types, gender, and birth year)
+
+## Files Included
+- **bikeshare.py** – main Python script for interactive data exploration  
+- **refactor_notes.txt** – summary of the code improvements made  
+- **README.md** – project description and overview  
+- **.gitignore** – excludes data files (`*.csv`) from version control  
+
+## How to Run
+1. Make sure you have **Python 3** installed.  
+2. Run the program using the command:  
+3. When prompted, enter one of the following cities:
+
+## Refactoring Notes
+The code was refactored to:
+- Add functions for cleaner structure  
+- Improve variable naming and readability  
+- Handle invalid user input  
+- Remove repetitive code  
+- Add helpful comments and docstrings  
 
 ## Author
-**Alanood Hasan**
+**Alanood Ibrahim**  
+Udacity Data Analyst Nanodegree
