@@ -1,17 +1,19 @@
->**Note**: Please **fork** the current Udacity repository so that you will have a **remote** repository in **your** Github account. Clone the remote repository to your local machine. Later, as a part of the project "Post your Work on Github", you will push your proposed changes to the remote repository in your Github account.
+# Udacity GitHub Project (PDSND)
+This repository is part of Udacity’s Programming for Data Science with Python Nanodegree.  
+It demonstrates the use of Git and GitHub for version control.
 
-### Date created
-Include the date you created this project and README file.
+## Project Description
+The project includes:
+- Creating and managing branches
+- Adding commits and tracking changes
+- Using `.gitignore` to exclude files
+- Performing merges and resolving conflicts
+- Practicing collaboration workflow
 
-### Project Title
-Replace the Project Title
+## Branches
+- **master**: main branch
+- **documentation**: contains updated project documentation
+- **refactoring**: includes refactored and improved code examples
 
-### Description
-Describe what your project is about and what it does
-
-### Files used
-Include the files used
-
-### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
-
+## Author
+**Alanood Hasan**
