@@ -1,1 +1,9 @@
-"# Refactoring Notes for Bikeshare Project" 
+# Refactor Notes for Bikeshare Project
+
+This file documents small code improvements and cleanups made after the initial version.
+
+- Added docstrings and comments for clarity.
+- Used functions to reduce repetition.
+- Improved user input validation (case-insensitive and error handled).
+- Cleaned unused variables.
+- Ensured all code cells run without errors.
